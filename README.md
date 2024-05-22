@@ -5,7 +5,7 @@ Rexx Bot'un sunduğu hizmetlerden yararlanmak için minimum yaş sınırı 13't�
 Rexx Bot'un sunduğu hizmetlerin kötüye kullanılması durumunda (komutları spamlamak, bot açıklarını kullanmak gibi) Rexx Bot üzerinden kalıcı olarak kara listeye ekleme hakkımız saklıdır.
 
 # Destek ve Sorular
-Aklınızda bir soru varsa, Destek Sunucumuza gelerek bu sorulara çözüm bulabilirsiniz. (discord.gg/uzpQD6vKFe)
+Aklınızda bir soru varsa, Destek Sunucumuza gelerek bu sorulara çözüm bulabilirsiniz. (https://www.discord.gg/uzpQD6vKFe)
 
 # Değişiklik Hakkı
 Yukarıda belirtilen maddeler sabit olmayıp, her an değiştirilebilir ve değiştirme hakkımız saklıdır.
