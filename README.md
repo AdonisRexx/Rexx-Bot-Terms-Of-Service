@@ -1,5 +1,5 @@
 # Yaş Sınırı
-Rexx Bot'un sunduğu hizmetlerden yararlanmak için minimum yaş sınırı 13'tür. Eğer Discord'un kullanım şartlarında olduğu gibi, 13 yaşının altında olduğunuzu tespit edersek, Rexx Bot üzerinden kalıcı olarak kara listeye ekleme hakkımız saklıdır ayrıca hesabınız discord moderatörekibine tarafımızca bildirilir. 
+Rexx Bot'un sunduğu hizmetlerden yararlanmak için minimum yaş sınırı 13'tür. Eğer Discord'un kullanım şartlarında olduğu gibi, 13 yaşının altında olduğunuzu tespit edersek, Rexx Bot üzerinden kalıcı olarak kara listeye ekleme hakkımız saklıdır ayrıca hesabınız discord moderatör ekibine tarafımızca bildirilir. 
 
 # Hizmetlerin Kötüye Kullanımı
 Rexx Bot'un sunduğu hizmetlerin kötüye kullanılması durumunda (komutları spamlamak, bot açıklarını kullanmak gibi) Rexx Bot üzerinden kalıcı olarak kara listeye ekleme hakkımız saklıdır.
